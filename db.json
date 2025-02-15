@@ -14,6 +14,6 @@
   "tasks": [
     { "id" : "1", "title": "Title id 1", "description": "dfjjfdjh"},
     { "id" : "2", "title": "Title id 2", "description": "xnvnvnxvn"},
-    { "id" : "3", "title": "Title id 3", "description": "lglkdjklj"},
+    { "id" : "3", "title": "Title id 3", "description": "lglkdjklj"}
   ]
 }
